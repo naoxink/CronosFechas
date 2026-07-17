@@ -85,14 +85,6 @@
           "favorito": true,
           "tags": ["Familia", "Cumpleaños"],
           "notas": "Más añitos"
-        },
-        {
-          "tipo": "hasta",
-          "titulo": "Vencimiento Seguro Coche",
-          "fecha": "2026-12-15",
-          "favorito": false,
-          "tags": ["Gastos", "Coche"],
-          "notas": "Revisar otras compañías antes."
         }
       ]
     },    
@@ -110,7 +102,7 @@
           "notas": "Cambio de azulejos y encimera."
         },
         {
-          "tipo": "hasta",
+          "tipo": "desde",
           "titulo": "Brackets abajo",
           "fecha": "2025-02-12",
           "favorito": false,
@@ -118,7 +110,7 @@
           "notas": "Revisar otras compañías antes."
         },
         {
-          "tipo": "hasta",
+          "tipo": "desde",
           "titulo": "Brackets arriba",
           "fecha": "2025-03-12",
           "favorito": false,
