@@ -52,6 +52,33 @@
           "notas": "Precio: 5000€"
         },
         {
+          "tipo": "desde",
+          "titulo": "Inicio trabajo",
+          "fecha": "2013-07-08",
+          "tags": ["Trabajo"],
+          "notas": "F.Inicio portal"
+        },
+        {
+          "tipo": "desde",
+          "titulo": "Compra PC",
+          "fecha": "2015-05-07",
+          "tags": ["Gastos", "PC"],
+          "notas": "Precio: 1337.15€"
+        },
+        {
+          "tipo": "desde",
+          "titulo": "Compra Casa",
+          "fecha": "2021-08-10",
+          "tags": ["Gastos", "Casa"],
+          "notas": "Llaves. Precio: xxx€"
+        },
+        {
+          "tipo": "desde",
+          "titulo": "Mudanza - independencia",
+          "fecha": "2022-04-11",
+          "tags": ["Casa"]
+        },
+        {
           "tipo": "aniversario",
           "titulo": "Cumpleaños",
           "fecha": "1988-10-31",
