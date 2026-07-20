@@ -134,11 +134,11 @@
       "eventos": [
         {
           "tipo": "desde",
-          "titulo": "Mi evento suelto",
-          "fecha": "2025-06-01",
+          "titulo": "Aliens Fernando",
+          "fecha": "2023-09-18",
           "favorito": false,
-          "tags": ["Otros"],
-          "notas": "Este evento no tiene un grupo específico."
+          "tags": ["Otros", "JuegoMesa"],
+          "notas": "Juego aliens para pegar minis"
         }
       ]
     }
