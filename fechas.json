@@ -34,10 +34,56 @@
           "titulo": "Iphone 17 Pro Max",
           "fecha": "2025-11-27",
           "favorito": false,
-          "tags": ["Historia", "Mac"],
+          "tags": ["Apple", "Móvil"],
           "notas": ""
+        },
+        {
+          "tipo": "desde",
+          "titulo": "MacBook Air",
+          "fecha": "2016-11-19",
+          "favorito": false,
+          "tags": ["Apple", "Mac"],
+          "notas": ""
+        },
+        {
+          "tipo": "desde",
+          "titulo": "iPad 9,7\"",
+          "fecha": "2019-01-24",
+          "favorito": false,
+          "tags": ["Apple", "iPad"],
+          "notas": "289€"
+        },
+        {
+          "tipo": "desde",
+          "titulo": "iPad Air",
+          "fecha": "2013-12-30",
+          "favorito": false,
+          "tags": ["Apple", "iPad"],
+          "notas": "289€"
         }
       ]
+    },
+    {
+      "nombre": "Compras",
+      "icono": "💰️",
+      "color": "#fb792c",
+      "eventos": [
+        {
+          "tipo": "desde",
+          "titulo": "Lavadora",
+          "fecha": "2025-11-20",
+          "favorito": false,
+          "tags": ["Compras"],
+          "notas": "Primer iPhone"
+        },
+        {
+          "tipo": "desde",
+          "titulo": "Switch 2",
+          "fecha": "2026-03-19",
+          "favorito": false,
+          "tags": ["Compras", "Consola"],
+          "notas": "Primer iPhone"
+        }
     },
     {
       "nombre": "Personal y Hogar",
