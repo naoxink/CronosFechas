@@ -6,7 +6,7 @@
       "color": "#FF2D55",
       "eventos": [
         {
-          "tipo": "desde",
+          "tipo": "aniversario",
           "titulo": "Boda",
           "fecha": "2020-11-06",
           "favorito": true,
