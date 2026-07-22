@@ -1,191 +1,206 @@
 {
   "grupos": [
     {
-      "nombre": "Apple",
-      "icono": "📱",
-      "color": "#007AFF",
+      "nombre": "Personal",
+      "icono": "❤️",
+      "color": "#FF2D55",
       "eventos": [
         {
           "tipo": "desde",
-          "titulo": "Iphone 4S",
-          "fecha": "2013-09-20",
-          "favorito": false,
-          "tags": ["Apple", "Móvil"],
-          "notas": "Primer iPhone"
-        },
-        {
-          "tipo": "desde",
-          "titulo": "Iphone 6S",
-          "fecha": "2016-03-09",
-          "favorito": false,
-          "tags": ["Apple", "Móvil"],
-          "notas": ""
-        },
-        {
-          "tipo": "desde",
-          "titulo": "Iphone 11 Pro Max",
-          "fecha": "2020-01-05",
-          "favorito": false,
-          "tags": ["Apple", "Móvil"],
-          "notas": ""
-        },
-        {
-          "tipo": "desde",
-          "titulo": "Iphone 17 Pro Max",
-          "fecha": "2025-11-27",
-          "favorito": false,
-          "tags": ["Apple", "Móvil"],
-          "notas": ""
-        },
-        {
-          "tipo": "desde",
-          "titulo": "MacBook Air",
-          "fecha": "2016-11-19",
-          "favorito": false,
-          "tags": ["Apple", "Mac"],
-          "notas": ""
-        },
-        {
-          "tipo": "desde",
-          "titulo": "iPad 9,7\"",
-          "fecha": "2019-01-24",
-          "favorito": false,
-          "tags": ["Apple", "iPad"],
-          "notas": "289€"
-        },
-        {
-          "tipo": "desde",
-          "titulo": "iPad Air",
-          "fecha": "2013-12-30",
-          "favorito": false,
-          "tags": ["Apple", "iPad"],
-          "notas": "289€"
-        }
-      ]
-    },
-    {
-      "nombre": "Compras",
-      "icono": "💰️",
-      "color": "#fb792c",
-      "eventos": [
-        {
-          "tipo": "desde",
-          "titulo": "Lavadora",
-          "fecha": "2025-11-20",
-          "favorito": false,
-          "tags": ["Compras"],
-          "notas": ""
-        },
-        {
-          "tipo": "desde",
-          "titulo": "Switch 2",
-          "fecha": "2026-03-19",
-          "favorito": false,
-          "tags": ["Compras", "Consola"],
-          "notas": "Aliexpress"
-         }
-      ]
-    },
-    {
-      "nombre": "Personal y Hogar",
-      "icono": "🏠",
-      "color": "#34C759",
-      "eventos": [
-        {
-          "tipo": "desde",
-          "titulo": "Compra coche C3",
-          "fecha": "2020-07-24",
-          "tags": ["Gastos", "Coche"],
-          "notas": "Precio: 5000€"
-        },
-        {
-          "tipo": "desde",
-          "titulo": "Inicio trabajo",
-          "fecha": "2013-07-08",
-          "tags": ["Trabajo"],
-          "notas": "F.Inicio portal"
-        },
-        {
-          "tipo": "desde",
-          "titulo": "Compra PC",
-          "fecha": "2015-05-07",
-          "tags": ["Gastos", "PC"],
-          "notas": "Precio: 1337.15€"
-        },
-        {
-          "tipo": "desde",
-          "titulo": "Compra Casa",
-          "fecha": "2021-08-10",
-          "tags": ["Gastos", "Casa"],
-          "notas": "Llaves. Precio: xxx€"
-        },
-        {
-          "tipo": "desde",
-          "titulo": "Mudanza - independencia",
-          "fecha": "2022-04-11",
-          "tags": ["Casa"]
+          "titulo": "Boda",
+          "fecha": "2020-11-06",
+          "favorito": true,
+          "tags": ["Familia", "Pareja"],
+          "notas": "Málaga"
         },
         {
           "tipo": "aniversario",
-          "titulo": "Cumpleaños",
-          "fecha": "1988-10-31",
+          "titulo": "Aniversario boda mamá",
+          "fecha": "1978-07-16",
+          "favorito": false,
+          "tags": ["Familia", "Aniversario"],
+          "notas": "Divina Pastora, Málaga"
+        },
+        {
+          "tipo": "desde",
+          "titulo": "Última quedada con Nico",
+          "fecha": "2026-07-17",
           "favorito": true,
-          "tags": ["Familia", "Cumpleaños"],
-          "notas": "Más añitos"
-        }
-      ]
-    },    
-    {
-      "nombre": "Dentista",
-      "icono": "🦷",
-      "color": "#b81414",
-      "eventos": [
-        {
-          "tipo": "periodo",
-          "titulo": "Instalación disyuntor",
-          "inicio": "2025-01-15",
-          "fin": "2025-03-16",
-          "tags": ["Gastos", "Dentista"],
-          "notas": "Cambio de azulejos y encimera."
-        },
-        {
-          "tipo": "desde",
-          "titulo": "Brackets abajo",
-          "fecha": "2025-02-12",
-          "favorito": false,
-          "tags": ["Gastos", "Dentista"],
-          "notas": "Revisar otras compañías antes."
-        },
-        {
-          "tipo": "desde",
-          "titulo": "Brackets arriba",
-          "fecha": "2025-03-12",
-          "favorito": false,
-          "tags": ["Gastos", "Dentista"],
-          "notas": "Revisar otras compañías antes."
-        },
-        {
-          "tipo": "hasta",
-          "titulo": "Fin brackets",
-          "fecha": "2026-12-15",
-          "favorito": false,
-          "tags": ["Gastos", "Dentista"],
-          "notas": "Revisar otras compañías antes."
+          "tags": ["Amigos"],
+          "notas": "Málaga. Mejicano + vuelta"
         }
       ]
     },
     {
-      "nombre": "General",
-      "icono": "📌",
-      "color": "#8E8E93",
+      "nombre": "Tatuajes",
+      "icono": "🖋️",
+      "color": "#5856D6",
       "eventos": [
         {
           "tipo": "desde",
-          "titulo": "Aliens Fernando",
-          "fecha": "2023-09-18",
+          "titulo": "Tatuaje ŋ'",
+          "fecha": "2023-11-02",
           "favorito": false,
-          "tags": ["Otros", "JuegoMesa"],
-          "notas": "Juego aliens para pegar minis"
+          "tags": ["Tatuaje", "Símbolo"],
+          "notas": "Disturbia Tattoo. Jerez de la Frontera"
+        },
+        {
+          "tipo": "desde",
+          "titulo": "Tatuaje papá",
+          "fecha": "2023-11-02",
+          "favorito": true,
+          "tags": ["Tatuaje", "Familia"],
+          "notas": "Disturbia Tattoo. Jerez de la Frontera"
+        },
+        {
+          "tipo": "desde",
+          "titulo": "Tatuaje Metallica",
+          "fecha": "2024-01-17",
+          "favorito": true,
+          "tags": ["Tatuaje", "Música", "Metallica"],
+          "notas": "Disturbia Tattoo. Jerez de la Frontera"
+        },
+        {
+          "tipo": "desde",
+          "titulo": "Tatuaje Slipknot",
+          "fecha": "2024-01-17",
+          "favorito": true,
+          "tags": ["Tatuaje", "Música", "Slipknot"],
+          "notas": "Disturbia Tattoo. Jerez de la Frontera"
+        },
+        {
+          "tipo": "desde",
+          "titulo": "Tatuaje Semicorcheas",
+          "fecha": "2024-02-10",
+          "favorito": false,
+          "tags": ["Tatuaje", "Música"],
+          "notas": "Disturbia Tattoo - Benéfico. Jerez de la Frontera"
+        },
+        {
+          "tipo": "desde",
+          "titulo": "Tatuaje Iku",
+          "fecha": "2024-09-19",
+          "favorito": true,
+          "tags": ["Tatuaje", "Iku"],
+          "notas": "Oh my cat! Málaga"
+        },
+        {
+          "tipo": "desde",
+          "titulo": "Tatuaje Gaiwan",
+          "fecha": "2024-11-06",
+          "favorito": false,
+          "tags": ["Tatuaje", "Té"],
+          "notas": "Amiron Tattoo. Arcos de la Frontera"
+        },
+        {
+          "tipo": "desde",
+          "titulo": "Tatuaje ala siniestra",
+          "fecha": "2024-11-20",
+          "favorito": false,
+          "tags": ["Tatuaje"],
+          "notas": "Amiron Tattoo. Arcos de la Frontera"
+        },
+        {
+          "tipo": "desde",
+          "titulo": "Tatuaje punto saludando",
+          "fecha": "2024-11-20",
+          "favorito": false,
+          "tags": ["Tatuaje"],
+          "notas": "Amiron Tattoo. Arcos de la Frontera"
+        },
+        {
+          "tipo": "desde",
+          "titulo": "Tatuaje αυτάρκης",
+          "fecha": "2025-02-27",
+          "favorito": true,
+          "tags": ["Tatuaje", "Griego"],
+          "notas": "TGTInk Tattoo. Arcos de la Frontera"
+        },
+        {
+          "tipo": "desde",
+          "titulo": "Tatuaje Sleep Token tribal hombro",
+          "fecha": "2025-09-11",
+          "favorito": true,
+          "tags": ["Tatuaje", "Música", "Sleep Token"],
+          "notas": "The Tattoo Shire (Dylon). Málaga"
+        }
+      ]
+    },
+    {
+      "nombre": "Iku",
+      "icono": "🐶",
+      "color": "#30B0C7",
+      "eventos": [
+        {
+          "tipo": "desde",
+          "titulo": "Nace Iku",
+          "fecha": "2024-04-28",
+          "favorito": true,
+          "tags": ["Iku", "Nacimiento"],
+          "notas": "Málaga"
+        },
+        {
+          "tipo": "desde",
+          "titulo": "Adopción Iku",
+          "fecha": "2024-07-17",
+          "favorito": true,
+          "tags": ["Iku", "Adopción"],
+          "notas": "Perritos del Higuerón. Málaga"
+        }
+      ]
+    },
+    {
+      "nombre": "Clara",
+      "icono": "👶",
+      "color": "#FF9500",
+      "eventos": [
+        {
+          "tipo": "desde",
+          "titulo": "Nace Clara",
+          "fecha": "2026-01-02",
+          "favorito": true,
+          "tags": ["Clara", "Nacimiento"],
+          "notas": "Málaga"
+        },
+        {
+          "tipo": "desde",
+          "titulo": "Clara prueba la sandía",
+          "fecha": "2026-07-05",
+          "favorito": false,
+          "tags": ["Clara", "Alimentación", "BLW", "Fruta"],
+          "notas": "Málaga"
+        },
+        {
+          "tipo": "desde",
+          "titulo": "Clara prueba el plátano",
+          "fecha": "2026-07-13",
+          "favorito": false,
+          "tags": ["Clara", "Alimentación", "BLW", "Fruta"],
+          "notas": "Málaga"
+        },
+        {
+          "tipo": "desde",
+          "titulo": "Clara prueba la patata",
+          "fecha": "2026-07-14",
+          "favorito": false,
+          "tags": ["Clara", "Alimentación", "BLW", "Verdura"],
+          "notas": "Málaga"
+        },
+        {
+          "tipo": "desde",
+          "titulo": "Clara prueba el calabacín",
+          "fecha": "2026-07-19",
+          "favorito": false,
+          "tags": ["Clara", "Alimentación", "BLW", "Verdura"],
+          "notas": "Málaga"
+        },
+        {
+          "tipo": "desde",
+          "titulo": "Clara prueba el puerro",
+          "fecha": "2026-07-22",
+          "favorito": false,
+          "tags": ["Clara", "Alimentación", "BLW", "Verdura"],
+          "notas": "Málaga"
         }
       ]
     }
