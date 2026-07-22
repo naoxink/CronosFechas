@@ -1,4 +1,5 @@
+const PREFIX_KEY = 'cf-'
 export const Storage = {
-    get: (key, fallback) => JSON.parse((localStorage.getItem(key) || '{}')) ?? fallback,
-    set: (key, val) => localStorage.setItem(key, JSON.stringify(val))
+    get: (key, fallback) => JSON.parse((localStorage.getItem(PREFIX_KEY + key) || '{}')) ?? fallback,
+    set: (key, val) => localStorage.setItem(PREFIX_KEY + key, JSON.stringify(val))
 };
