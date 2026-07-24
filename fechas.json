@@ -28,6 +28,13 @@
           "favorito": true,
           "tags": ["Amigos"],
           "notas": "Málaga. Mejicano + vuelta"
+        },
+        {
+          "tipo": "aniversario",
+          "titulo": "Nace Alex",
+          "fecha": "2026-07-23",
+          "tags": ["Amigos"],
+          "notas": "Londres"
         }
       ]
     },
